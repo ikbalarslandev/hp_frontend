@@ -10,6 +10,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@repo/ui": "workspace:*",
     "@hookform/resolvers": "^3.9.0",
     "@prisma/client": "^5.20.0",
     "@radix-ui/react-accordion": "^1.2.0",
